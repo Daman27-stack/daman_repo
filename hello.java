@@ -1,7 +1,7 @@
 // Simple Hello and Input Program
 //import java.util.Scanner;
 
-public class HelloWorld {
+public class hello {
     public static void main(String[] args) {
         
 
@@ -11,4 +11,5 @@ public class HelloWorld {
      
     }
 }
+
 
